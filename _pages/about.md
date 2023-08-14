@@ -19,6 +19,10 @@ redirect_from:
 
 之江实验室图计算研究中心/华中科技大学计算机科学与技术学院助理研究员，2022年9月在华中科技大学获得计算机系统结构博士学位，入选2023年度“CCF体系结构优秀博士学位论文激励计划”。主要研究面向图计算的高性能体系结构和系统软件，相关成果在ISCA、SC、DAC、ACM TOS/TACO、IEEE TC/TKDE/TBD等会议和期刊上发表或录用学术论文10余篇，入选CCF A类期刊IEEE TC的Featured Paper of the Month等，研发的图计算引擎在图计算性能权威榜单Green Graph 500和Graph 500排名中多次位列第一，相关技术将华为鲲鹏并发图计算性能提升了2300余倍，获第七届“互联网+”产业命题赛道全国金奖，入选第八届“长江学子”大学生就业创业人物“开拓创新类”，目前正在主持CCF-蚂蚁科研基金、之江实验室青年基金和第5批博士后特别资助（站前）等。
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 # 📝 Publications 
 - **[DAC]** **<ins>Jin Zhao</ins>**, Yu Zhang, Jian Cheng, Yiyang Wu, Chuyue Ye, Hui Yu, Zhiying Huang, Hai Jin, Xiaofei Liao, Lin Gu, Haikun Liu. SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing. In ***Proceedings of the 60th Design Automation Conference***, 2023.
 - **[TACO]** **<ins>Jin Zhao</ins>**, Yu Zhang, Ligang He, Qikun Li, Xiang Zhang, Hui Yu, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ji Zhang, Xianzheng Song, Lin Wang, Jun Zhuo. GraphTune: An Efficient Dependency-Aware Substrate to Alleviate Irregularity in Concurrent Graph Processing.  ***ACM Transactions on Architecture and Code Optimization***, 2023.
