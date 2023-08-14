@@ -19,9 +19,7 @@ redirect_from:
 
 之江实验室图计算研究中心/华中科技大学计算机科学与技术学院助理研究员，2022年9月在华中科技大学获得计算机系统结构博士学位，入选2023年度“CCF体系结构优秀博士学位论文激励计划”。主要研究面向图计算的高性能体系结构和系统软件，相关成果在ISCA、SC、DAC、ACM TOS/TACO、IEEE TC/TKDE/TBD等会议和期刊上发表或录用学术论文10余篇，入选CCF A类期刊IEEE TC的Featured Paper of the Month等，研发的图计算引擎在图计算性能权威榜单Green Graph 500和Graph 500排名中多次位列第一，相关技术将华为鲲鹏并发图计算性能提升了2300余倍，获第七届“互联网+”产业命题赛道全国金奖，入选第八届“长江学子”大学生就业创业人物“开拓创新类”，目前正在主持CCF-蚂蚁科研基金、之江实验室青年基金和第5批博士后特别资助（站前）等。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-# 📝 发表论文 
+# 📝 Publications 
 - **[DAC]** **<ins>Jin Zhao</ins>**, Yu Zhang, Jian Cheng, Yiyang Wu, Chuyue Ye, Hui Yu, Zhiying Huang, Hai Jin, Xiaofei Liao, Lin Gu, Haikun Liu. SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing. In ***Proceedings of the 60th Design Automation Conference***, 2023.
 - **[TACO]** **<ins>Jin Zhao</ins>**, Yu Zhang, Ligang He, Qikun Li, Xiang Zhang, Hui Yu, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ji Zhang, Xianzheng Song, Lin Wang, Jun Zhuo. GraphTune: An Efficient Dependency-Aware Substrate to Alleviate Irregularity in Concurrent Graph Processing.  ***ACM Transactions on Architecture and Code Optimization***, 2023.
 - **[ISCA]** **<ins>Jin Zhao</ins>**, Yun Yang, Yu Zhang, Xiaofei Liao, Lin Gu, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Xinyu Jiang, Hui Yu. TDGraph: A Topology-Driven Accelerator for High-Performance Streaming Graph Processing. In ***Proceedings of the 2022 IEEE/ACM International Symposium on Computer Architecture***, 2022.
@@ -39,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 - **[中国科学:信息科学]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
 - **[中国科学:信息科学]** 廖小飞, 陈意诚, 张宇, 金海, 刘海坤, **<ins>赵进</ins>**. 一种高效的面向动态有向图的增量强连通分量算法. ***中国科学:信息科学***, 2019.
 
-# 🎖 获奖情况
+# 🎖 Honors and Awards
 - 2023年“CCF体系结构优秀博士学位论文激励计划”
 - 2023年获得第十三届“挑战杯”中国大学生创业计划竞赛全国金奖
 - 2022年在图学习“国际开放图基准数据集挑战赛”的链接属性预测赛道预测精度排名全球第一
@@ -51,13 +49,13 @@ My research interest includes neural machine translation and computer vision. I 
 - 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
 - 2018年和2019年获得优秀研究生干部
 
-# 📖 学习/工作经历
+# 📖 Educations
 - 2022.09至今，之江实验室/华中科技大学，助理研究员
 - 2017.09-2022.08，华中科技大学，计算机软件与理论，计算机科学与计算学院，博士 （导师：廖小飞教授）
 - 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授）
 - 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
 
-# 💻 参与项目
+# 💻 Projects
 - **CCF-蚂蚁科研基金**（主持）  
 高性能分布式图神经网络系统优化技术研究（No.RF20220211）
 - **之江实验室青年基金**（主持）  
