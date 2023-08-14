@@ -20,8 +20,9 @@ redirect_from:
 之江实验室图计算研究中心/华中科技大学计算机科学与技术学院助理研究员，2022年9月在华中科技大学获得计算机系统结构博士学位，入选2023年度“CCF体系结构优秀博士学位论文激励计划”。主要研究面向图计算的高性能体系结构和系统软件，相关成果在ISCA、SC、DAC、ACM TOS/TACO、IEEE TC/TKDE/TBD等会议和期刊上发表或录用学术论文10余篇，入选CCF A类期刊IEEE TC的Featured Paper of the Month等，研发的图计算引擎在图计算性能权威榜单Green Graph 500和Graph 500排名中多次位列第一，相关技术将华为鲲鹏并发图计算性能提升了2300余倍，获第七届“互联网+”产业命题赛道全国金奖，入选第八届“长江学子”大学生就业创业人物“开拓创新类”，目前正在主持CCF-蚂蚁科研基金、之江实验室青年基金和第5批博士后特别资助（站前）等。
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08*: &nbsp;🎉🎉 Our paper RACE is accepted by ACM TACO!
+- *2023.05*: &nbsp;🎉🎉 Our paper GraphTune is accepted by ACM TACO!
+- *2023.02*: &nbsp;🎉🎉 Our papers SaGraph and PSMiner are accepted by DAC 2023! 
 
 # 📝 Publications 
 - **[DAC]** **<ins>Jin Zhao</ins>**, Yu Zhang, Jian Cheng, Yiyang Wu, Chuyue Ye, Hui Yu, Zhiying Huang, Hai Jin, Xiaofei Liao, Lin Gu, Haikun Liu. SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing. In ***Proceedings of the 60th Design Automation Conference***, 2023.
@@ -54,12 +55,17 @@ redirect_from:
 - 2018年和2019年获得优秀研究生干部
 
 # 📖 Educations
-- 2022.09至今，之江实验室/华中科技大学，助理研究员
 - 2017.09-2022.08，华中科技大学，计算机软件与理论，计算机科学与计算学院，博士 （导师：廖小飞教授）
-- 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授）
 - 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
 
-# 💻 Projects
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授），新加坡.
+
+# 📝 Projects
 - **CCF-蚂蚁科研基金**（主持） 高性能分布式图神经网络系统优化技术研究（No.RF20220211） 
 - **之江实验室青年基金** （主持）图结构感知的高性能图处理优化技术研究（No.K2023PI0AA01）
 - **博士后特别资助（站前）**（主持）高性能动态图处理系统关键技术研究（No.2023TQ0325）
@@ -72,10 +78,3 @@ redirect_from:
 - **华为联合实验室项目** （核心骨干） 异步动态图计算加速器设计（No.YBN2021035018A5）
 - **华为联合实验室项目** （核心骨干）  面向大规模图分析和图神经网络的高性能统一计算框架（No.YBN2021035018A6）
 - **华为海思项目** （核心骨干） 图计算在ATPG中的应用探索（No.YBN2020115040）
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
