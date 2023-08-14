@@ -26,8 +26,8 @@ author:
   avatar           : "images/zjin.jpg"
   bio              : "之江实验室/华中科技大学"
   location         : "杭州, 中国"
-  employer         :
-  pubmed           : 
+  employer         : #
+  pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=v2z02IgAAAAJ&hl=zh-CN"
   email            : "zjin@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
