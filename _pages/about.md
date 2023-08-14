@@ -60,8 +60,10 @@ redirect_from:
 - 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2023.08, CCFSys 2023 “高性能图计算体系结构和系统软件” 论坛，论坛主席.
+- 2022.12, CNCC 2022 “面向复杂图计算应用的新型高能效体系结构” 论坛，报告：拓扑驱动的动态图计算硬件加速机制研究.
+- 2022.06, 鲲鹏开发者峰会 2022，报告：基于鲲鹏BoostKit，打造全球领先的图计算系统.
+- 2019.08, HPCChina 2019 “ 第五届HPC Plus论坛”，报告：面向并发图计算任务的存储系统.
 
 # 💻 Internships
 - 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授），新加坡.
