@@ -39,17 +39,50 @@ My research interest includes neural machine translation and computer vision. I 
 - **[中国科学:信息科学]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
 - **[中国科学:信息科学]** 廖小飞, 陈意诚, 张宇, 金海, 刘海坤, **<ins>赵进</ins>**. 一种高效的面向动态有向图的增量强连通分量算法. ***中国科学:信息科学***, 2019.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 获奖情况
+- 2023年“CCF体系结构优秀博士学位论文激励计划”
+- 2023年获得第十三届“挑战杯”中国大学生创业计划竞赛全国金奖
+- 2022年在图学习“国际开放图基准数据集挑战赛”的链接属性预测赛道预测精度排名全球第一
+- 2022/2023年在第24、25和26届Graph 500排名中，SSSP性能蝉联全球第一、BFS性能全球第二（国内第一）
+- 2022年入选第八届“长江学子”开拓创新类
+- 2021年获得国家奖学金、达梦奖学金、华为奖学金、腾讯奖学金
+- 2021年获得第七届中国国际“互联网+”大学生创新创业大赛全国金奖
+- 2021年获得CCF武汉分会“优秀博士生学术风采展示论坛”一等奖
+- 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
+- 2018年和2019年获得优秀研究生干部
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 学习/工作经历
+- 2022.09至今，之江实验室/华中科技大学，助理研究员
+- 2017.09-2022.08，华中科技大学，计算机软件与理论，计算机科学与计算学院，博士 （导师：廖小飞教授）
+- 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授）
+- 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
+
+# 💻 参与项目
+- **CCF-蚂蚁科研基金**（主持）  
+高性能分布式图神经网络系统优化技术研究（No.RF20220211）
+- **之江实验室青年基金**（主持）  
+图结构感知的高性能图处理优化技术研究（No.K2023PI0AA01）
+- **博士后特别资助（站前）**（主持）  
+高性能动态图处理系统关键技术研究（No.2023TQ0325）
+- **国家重点研发计划项目**（核心骨干）  
+面向图计算的通用计算机技术与系统（No.2018YFB1003500）
+- **国家自然科学基金重点项目** （核心骨干）   
+面向大数据高效处理的体系结构与关键技术（No. 61832006）
+- **国家自然科学基金** （核心骨干）  
+关联性感知的并发图计算系统优化机制研究 (No.6170050426)
+- **国家自然科学基金** （核心骨干）  
+面向高并发图分析服务的运行时系统关键技术研究 (No.6207050010)
+- **之江实验室开放课题** （核心骨干）  
+面向高并发图分析服务的运行时系统关键技术研究（No.2021KD0AB01）
+- **之江实验室重大项目** （核心骨干）  
+高并发分布式图计算系统（No.2022PI0AC03）
+- **华为项目** （核心骨干）  
+图计算在ATPG中的应用探索（No.YBN2020115040）
+- **华为联合实验室项目** （核心骨干）  
+异步动态图计算加速器设计（No.YBN2021035018A5）
+- **华为联合实验室项目** （核心骨干）  
+面向大规模图分析和图神经网络的高性能统一计算框架（No.YBN2021035018A6）
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
