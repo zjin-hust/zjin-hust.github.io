@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "发表论文"
+    url: "/#-发表论文"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "获奖情况"
+    url: "/#-获奖情况"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "学习/工作经历"
+    url: "/#-学习/工作经历"
 
-  - title: "Educations"
-    url: "/#-educations"
+ - title: "参与项目"
+    url: "/#-参与项目"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
