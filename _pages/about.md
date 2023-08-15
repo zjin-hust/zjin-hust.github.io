@@ -40,6 +40,7 @@ redirect_from:
 - **[TBD]** Beibei Si, Yuxuan Liang,  **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, Lin Gu. GGraph: An Efficient Structure-aware Approach for Iterative Graph Processing.  ***IEEE Transactions on Big Data***, 2022.
 - **[TOS]** Yu Zhang, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ligang He. CGraph: A Distributed Storage and Processing System for Concurrent Iterative Graph Analysis Jobs. ***ACM Transactions on Storage***, 2019.
 - **[中国科学: 信息科学]** **<ins>赵进</ins>**, 姜新宇, 张宇, 廖小飞, 金海, 刘海坤, 杨赟, 张吉, 王彪, 余婷. 一种高效的面向高并发图分析任务的存储系统. ***中国科学: 信息科学***, 2022.
+- **[中国科学: 信息科学]** 杨赟, 余辉, **<ins>赵进</ins>**, 张宇, 廖小飞, 姜新宇, 刘海坤, 毛伏兵, 张吉, 王彪. 面向动态有向图的单调图算法硬件加速机制. ***中国科学: 信息科学***, 2023.
 - **[中国科学:信息科学]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
 - **[中国科学:信息科学]** 廖小飞, 陈意诚, 张宇, 金海, 刘海坤, **<ins>赵进</ins>**. 一种高效的面向动态有向图的增量强连通分量算法. ***中国科学:信息科学***, 2019.
 
