@@ -61,6 +61,7 @@ redirect_from:
 - 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
 
 # 💬 Invited Talks
+- 2023.09, A Joint Workshop on Hot Topics on Big data and AI，“High-performance Graph Processing over Streaming Graphs”.
 - 2023.08, HPC China 2023 “第二届高性能图计算优化技术” 论坛，报告：动态图计算优化技术研究.
 - 2023.08, CCFSys 2023 “高性能图计算体系结构和系统软件” 论坛，论坛主席.
 - 2022.12, CNCC 2022 “面向复杂图计算应用的新型高能效体系结构” 论坛，报告：拓扑驱动的动态图计算硬件加速机制研究.
