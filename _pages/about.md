@@ -78,8 +78,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - Outstanding Doctoral Dissertation Award of China Computer Federation (2023)
 - Outstanding Doctoral Dissertation Award of CCF TCARCH (2023)
 - IEEE TC Featured Paper of the Month (2022)
-- 2022/2023年在第24、25和26届Graph 500排名中，SSSP性能蝉联全球第一、BFS性能全球第二
-- 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
+- Won first place in the Graph 500 and Green Graph 500 rankings
 
 # 📖 Educations
 - 2017.09-2022.09, Ph.D Candidate in the School of Computer Science and Technology in Huazhong University of Science and Technology, China.
