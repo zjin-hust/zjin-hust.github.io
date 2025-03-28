@@ -20,6 +20,7 @@ redirect_from:
 Jin Zhao is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 20 research papers in top-tier conferences and journals, including ISCA, MICRO, SC, DAC, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, and Graph Processing.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper "A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree" is accepted by DAC 2025!
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
 - *2024.07*: &nbsp;🎉🎉 Our paper "An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing" is accepted by ACM TACO!
 - *2024.07*: &nbsp;🎉🎉 Our paper "RAHP: A Redundancy-aware Accelerator for High-performance Hypergraph Neural Network" is accepted by MICRO 2024!
