@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I obtained my PhD degree at June 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). Before joining HUST, I have 
+I am an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I obtained my PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). Before joining HUST, I have 
 
 My research interests mainly focus on Computer Architecture, Graph Processing.
 
