@@ -86,6 +86,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - 2013.09-2017.06, Bachelor in the School of Computer Science, China University of Geosciences (Wuhan), China.
 
 # 💬 Invited Talks
+- 2024.07, CCF Computility 2024 “分布式图计算技术” 论坛，论坛主席.
 - 2023.09, A Joint Workshop on Hot Topics on Big data and AI，“High-performance Graph Processing over Streaming Graphs”.
 - 2023.08, HPC China 2023 “第二届高性能图计算优化技术” 论坛，报告：动态图计算优化技术研究.
 - 2023.08, CCFSys 2023 “高性能图计算体系结构和系统软件” 论坛，论坛主席.
@@ -97,6 +98,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - 2019.05-2019.09, National University of Singapore (Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/research.html)), Singapore.
 
 # 📝 Projects
+- **国家自然科学青年基金**（主持） 高性能时序图处理系统关键技术研究（No.62402457）
 - **CCF-蚂蚁科研基金**（主持） 高性能分布式图神经网络系统优化技术研究（No.RF20220211） 
 - **之江实验室青年基金** （主持）图结构感知的高性能图处理优化技术研究（No.K2023PI0AA01）
 - **博士后特别资助（站前）**（主持）高性能动态图处理系统关键技术研究（No.2023TQ0325）
