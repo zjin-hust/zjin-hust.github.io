@@ -55,8 +55,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[TACO]** Hui Yu, Yu Zhang, **<ins>Jin Zhao</ins>**, Yujian Liao, Zhiying Huang, Donghao He, Lin Gu, Hai Jin, Xiaofei Liao, Haikun Liu. RACE: An Efficient Redundancy-aware Accelerator for Dynamic Graph Neural Network. ***ACM Transactions on Architecture and Code Optimization***, 2023.
 - **[TKDE]** Yu Zhang, Yuxuan Liang, **<ins>Jin Zhao</ins>**, Fubing Mao, Lin Gu, Xiaofei Liao, Hai Jin, Haikun Liu, Song Guo, Yangqing Zeng, Hang Hu. EGraph: efficient concurrent GPU-based dynamic graph processing. ***IEEE Transactions on Knowledge and Data Engineering***, 2023.
 - **[TC]** Hai Jin, Dan Chen, Long Zheng, Yu Huang, Pengcheng Yao, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Wenbin Jiang. Accelerating Graph Convolutional Networks Through a PIM-Accelerated Approach. ***IEEE Transactions on Computers***, 2023.
-- **[中国科学: 信息科学]** 杨赟, 余辉, **<ins>赵进</ins>**, 张宇, 廖小飞, 姜新宇, 刘海坤, 毛伏兵, 张吉, 王彪. 面向动态有向图的单调图算法硬件加速机制. ***中国科学: 信息科学***, 2023.
-- **[中国科学:信息科学]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
+- **[SSI]** 杨赟, 余辉, **<ins>赵进</ins>**, 张宇, 廖小飞, 姜新宇, 刘海坤, 毛伏兵, 张吉, 王彪. 面向动态有向图的单调图算法硬件加速机制. ***中国科学: 信息科学***, 2023.
+- **[SSI]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
 
 
 ## 2022
@@ -65,13 +65,13 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[JCST]** Hui Yu, Xinyu Jiang, **<ins>Jin Zhao</ins>**, Hao Qi, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin. Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach. ***Journal of Computer Science and Technology***, 2022.
 - **[TBD]** Beibei Si, Yuxuan Liang,  **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, Lin Gu. GGraph: An Efficient Structure-aware Approach for Iterative Graph Processing.  ***IEEE Transactions on Big Data***, 2022.
 - **[Intelligent Computing]** Hai Jin, Hao Qi, **<ins>Jin Zhao</ins>**, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao. Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics. ***Intelligent Computing***, 2022.
-- **[中国科学: 信息科学]** **<ins>赵进</ins>**, 姜新宇, 张宇, 廖小飞, 金海, 刘海坤, 杨赟, 张吉, 王彪, 余婷. 一种高效的面向高并发图分析任务的存储系统. ***中国科学: 信息科学***, 2022.
+- **[SSI]** **<ins>赵进</ins>**, 姜新宇, 张宇, 廖小飞, 金海, 刘海坤, 杨赟, 张吉, 王彪, 余婷. 一种高效的面向高并发图分析任务的存储系统. ***中国科学: 信息科学***, 2022.
 
 ## Before 2022
 - **[SC 2021]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu. LCCG: A Locality-centric Hardware Accelerator for High Throughput of Concurrent Graph Processing. In ***Proceedings of the 2021 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2021.
 - **[SC 2019]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Yicheng Chen. GraphM: An Efficient Storage System for High Throughput of Concurrent Graph Analytics.  In ***Proceedings of the 2019 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2019.
 - **[TOS]** Yu Zhang, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ligang He. CGraph: A Distributed Storage and Processing System for Concurrent Iterative Graph Analysis Jobs. ***ACM Transactions on Storage***, 2019.
-- **[中国科学:信息科学]** Xiaofei Liao, Yicheng Chen, Yu Zhang, Hai Jin, Haikun Liu, **<ins>Jin Zhao</ins>**. An efficient incremental strongly connected components algorithm for evolving directed graph (in Chinese). ***SCIENTIA SINICA Informationis***, 2019.
+- **[SSI]** Xiaofei Liao, Yicheng Chen, Yu Zhang, Hai Jin, Haikun Liu, **<ins>Jin Zhao</ins>**. An efficient incremental strongly connected components algorithm for evolving directed graph (in Chinese). ***SCIENTIA SINICA Informationis***, 2019.
 
 # 🎖 Honors and Awards
 - 2023年度“CCF优秀博士学位论文激励计划”
