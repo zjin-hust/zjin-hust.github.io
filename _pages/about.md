@@ -88,8 +88,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
 
 # 📖 Educations
-- 2017.09-2022.08，华中科技大学，计算机软件与理论，计算机科学与计算学院，博士 （导师：廖小飞教授）
-- 2013.09-2017.06，中国地质大学(武汉)，信息安全，计算机学院，学士
+- 2017.09-2022.09, Ph.D Candidate in the School of Computer Science and Technology in Huazhong University of Science and Technology, China.
+- 2013.09-2017.06, Bachelor in the School of Computer Science, China University of Geosciences (Wuhan), China.
 
 # 💬 Invited Talks
 - 2023.09, A Joint Workshop on Hot Topics on Big data and AI，“High-performance Graph Processing over Streaming Graphs”.
@@ -100,7 +100,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - 2019.08, HPC China 2019 “ 第五届HPC Plus论坛”，报告：面向并发图计算任务的存储系统.
 
 # 💻 Internships
-- 2019.05-2019.09，新加坡国立大学（导师：何丙胜教授），新加坡.
+- 2019.05-2019.09, National University of Singapore (Advisor: [Prof. Bingsheng He](https://www.comp.nus.edu.sg/~hebs/research.html)), Singapore.
 
 # 📝 Projects
 - **CCF-蚂蚁科研基金**（主持） 高性能分布式图神经网络系统优化技术研究（No.RF20220211） 
