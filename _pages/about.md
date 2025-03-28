@@ -60,7 +60,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 
 
 ## 2022
-- **[ISCA]** **<ins>Jin Zhao</ins>**, Yun Yang, Yu Zhang, Xiaofei Liao, Lin Gu, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Xinyu Jiang, Hui Yu. TDGraph: A Topology-Driven Accelerator for High-Performance Streaming Graph Processing. In ***Proceedings of the 2022 IEEE/ACM International Symposium on Computer Architecture***, 2022.
+- **[ISCA 2022]** **<ins>Jin Zhao</ins>**, Yun Yang, Yu Zhang, Xiaofei Liao, Lin Gu, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Xinyu Jiang, Hui Yu. TDGraph: A Topology-Driven Accelerator for High-Performance Streaming Graph Processing. In ***Proceedings of the 2022 IEEE/ACM International Symposium on Computer Architecture***, 2022.
 - **[TC]** Xiaofei Liao, **<ins>Jin Zhao</ins>**, Yu Zhang, Bingsheng He, Ligang He, Hai Jin, Lin Gu. A Structure-aware Storage Optimization for Out-of-Core Concurrent Graph Processing. ***IEEE Transactions on Computer*** ```Featured Paper of the Month```, 2022.
 - **[JCST]** Hui Yu, Xinyu Jiang, **<ins>Jin Zhao</ins>**, Hao Qi, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin. Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach. ***Journal of Computer Science and Technology***, 2022.
 - **[TBD]** Beibei Si, Yuxuan Liang,  **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, Lin Gu. GGraph: An Efficient Structure-aware Approach for Iterative Graph Processing.  ***IEEE Transactions on Big Data***, 2022.
@@ -68,8 +68,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[中国科学: 信息科学]** **<ins>赵进</ins>**, 姜新宇, 张宇, 廖小飞, 金海, 刘海坤, 杨赟, 张吉, 王彪, 余婷. 一种高效的面向高并发图分析任务的存储系统. ***中国科学: 信息科学***, 2022.
 
 ## Before 2022
-- **[SC]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu. LCCG: A Locality-centric Hardware Accelerator for High Throughput of Concurrent Graph Processing. In ***Proceedings of the 2021 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2021.
-- **[SC]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Yicheng Chen. GraphM: An Efficient Storage System for High Throughput of Concurrent Graph Analytics.  In ***Proceedings of the 2019 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2019.
+- **[SC 2021]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu. LCCG: A Locality-centric Hardware Accelerator for High Throughput of Concurrent Graph Processing. In ***Proceedings of the 2021 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2021.
+- **[SC 2019]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu, Yicheng Chen. GraphM: An Efficient Storage System for High Throughput of Concurrent Graph Analytics.  In ***Proceedings of the 2019 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2019.
 - **[TOS]** Yu Zhang, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Hai Jin, Lin Gu, Haikun Liu, Bingsheng He, Ligang He. CGraph: A Distributed Storage and Processing System for Concurrent Iterative Graph Analysis Jobs. ***ACM Transactions on Storage***, 2019.
 - **[中国科学:信息科学]** 廖小飞, 陈意诚, 张宇, 金海, 刘海坤, **<ins>赵进</ins>**. 一种高效的面向动态有向图的增量强连通分量算法. ***中国科学:信息科学***, 2019.
 
