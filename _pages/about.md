@@ -46,6 +46,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[KDD 2024]** Longlong Lin, Tao Jia, Zeli Wang, **<ins>Jin Zhao</ins>**, Rong-Hua Li. PSMC: Provable and Scalable Algorithms for Motif Conductance Based Graph Clustering. In ***Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining***, 2024.
 - **[CIKM 2024]** Longlong Lin, Yunfeng Yu, Zihao Wang, Zeli Wang, Yuying Zhao, **<ins>Jin Zhao</ins>**, Tao Jia. PSNE: Efficient Spectral Sparsification Algorithms for Scaling Network Embedding. In ***Proceedings of the 33rd ACM International Conference on Information and Knowledge Management***, 2024.
 - **[IoT]** Li Lin, Jiapeng Wu, Zhi Zhou,  **<ins>Jin Zhao (Corresponding author)</ins>**, Peng Li, Jinbo Xiong. Computing Power Networking Meets Blockchain: A Reputation-enhanced Trading Framework for Decentralized IoT Cloud Services. ***IEEE Internet of Things Journal***, 2024.
+- **[CRAD]** Yu Zhang, Xinyu Jiang, Hui Yu, Jin Zhao, Hao Qi, Xiaofei Liao, Hai Jin, Biao Wang, Ting Yu. Review of Key Technologies in Graph Processing Architectures and Systems Software. ***Journal of Computer Research and Development***, 2024.
 - **[JCST]** Xiaofei Liao, Wen-Ju Zhao, Hai Jin, Pengcheng Yao, Yu Huang, Qinggang Wang, **<ins>Jin Zhao</ins>**, Long Zheng, Yu Zhang, Zhiyuan Shao. Towards High-Performance Graph Processing: From a Hardware/Software Co-Design Perspective. ***Journal of Computer Science and Technology***, 2024.
 
 ## 2023
@@ -55,8 +56,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[TACO]** Hui Yu, Yu Zhang, **<ins>Jin Zhao</ins>**, Yujian Liao, Zhiying Huang, Donghao He, Lin Gu, Hai Jin, Xiaofei Liao, Haikun Liu. RACE: An Efficient Redundancy-aware Accelerator for Dynamic Graph Neural Network. ***ACM Transactions on Architecture and Code Optimization***, 2023.
 - **[TKDE]** Yu Zhang, Yuxuan Liang, **<ins>Jin Zhao</ins>**, Fubing Mao, Lin Gu, Xiaofei Liao, Hai Jin, Haikun Liu, Song Guo, Yangqing Zeng, Hang Hu. EGraph: efficient concurrent GPU-based dynamic graph processing. ***IEEE Transactions on Knowledge and Data Engineering***, 2023.
 - **[TC]** Hai Jin, Dan Chen, Long Zheng, Yu Huang, Pengcheng Yao, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Wenbin Jiang. Accelerating Graph Convolutional Networks Through a PIM-Accelerated Approach. ***IEEE Transactions on Computers***, 2023.
-- **[SSI]** 杨赟, 余辉, **<ins>赵进</ins>**, 张宇, 廖小飞, 姜新宇, 刘海坤, 毛伏兵, 张吉, 王彪. 面向动态有向图的单调图算法硬件加速机制. ***中国科学: 信息科学***, 2023.
-- **[SSI]** 毛伏兵, 彭达, 张宇, 廖小飞, 姜新宇,杨赟, 金海, **<ins>赵进</ins>**, 刘海坤, 王柳峥. 图计算在ATPG中的应用探究. ***中国科学: 信息科学***, 2023.
+- **[SSI]** Yun Yang, Hui Yu, **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Xinyu Jiang, Haikun Liu, Fubing Mao, Ji Zhang, Biao Wang. An Efficient Hardware Accelerator for Monotonic Graph Algorithms on Dynamic Directed Graphs (in Chinese). ***SCIENTIA SINICA Informationis***, 2023.
+- **[SSI]** Fubing Mao, Da Peng, Yu Zhang, Xiaofei Liao, Xinyu Jiang, Yun Yang, Hai Jin, **<ins>Jin Zhao</ins>**, Haikun Liu, Liuzheng Wang. Research on the Application of Graph Processing in ATPG (in Chinese). ***SCIENTIA SINICA Informationis***, 2023.
 
 
 ## 2022
@@ -65,7 +66,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[JCST]** Hui Yu, Xinyu Jiang, **<ins>Jin Zhao</ins>**, Hao Qi, Yu Zhang, Xiaofei Liao, Haikun Liu, Fubing Mao, Hai Jin. Toward High-Performance Delta-Based Iterative Processing with a Group-Based Approach. ***Journal of Computer Science and Technology***, 2022.
 - **[TBD]** Beibei Si, Yuxuan Liang,  **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, Lin Gu. GGraph: An Efficient Structure-aware Approach for Iterative Graph Processing.  ***IEEE Transactions on Big Data***, 2022.
 - **[Intelligent Computing]** Hai Jin, Hao Qi, **<ins>Jin Zhao</ins>**, Xinyu Jiang, Yu Huang, Chuangyi Gui, Qinggang Wang, Xinyang Shen, Yi Zhang, Ao Hu, Dan Chen, Chaoqiang Liu, Haifeng Liu, Haiheng He, Xiangyu Ye, Runze Wang, Jingrui Yuan, Pengcheng Yao, Yu Zhang, Long Zheng, Xiaofei Liao. Software Systems Implementation and Domain-Specific Architectures towards Graph Analytics. ***Intelligent Computing***, 2022.
-- **[SSI]** **<ins>赵进</ins>**, 姜新宇, 张宇, 廖小飞, 金海, 刘海坤, 杨赟, 张吉, 王彪, 余婷. 一种高效的面向高并发图分析任务的存储系统. ***中国科学: 信息科学***, 2022.
+- **[SSI]** **<ins>Jin Zhao</ins>**, Xinyu Jiang, Yu Zhang, Xiaofei Liao, Hai Jin, Haikun Liu, Yun Yang, Ji Zhang, Biao Wang, Ting Yu. An efficient storage system towards high throughput of concurrent graph processing jobs (in Chinese). ***SCIENTIA SINICA Informationis***, 2022.
 
 ## Before 2022
 - **[SC 2021]** **<ins>Jin Zhao</ins>**, Yu Zhang, Xiaofei Liao, Ligang He, Bingsheng He, Hai Jin, Haikun Liu. LCCG: A Locality-centric Hardware Accelerator for High Throughput of Concurrent Graph Processing. In ***Proceedings of the 2021 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2021.
