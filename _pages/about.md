@@ -26,7 +26,6 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - *2024.07*: &nbsp;🎉🎉 Our paper "RAHP: A Redundancy-aware Accelerator for High-performance Hypergraph Neural Network" is accepted by MICRO 2024!
 - *2024.02*: &nbsp;🎉🎉 Our papers "CDA-GNN: A Chain-driven Accelerator for Efficient Asynchronous Graph Neural Network" and "RTGA: A Redundancy-free Accelerator for High-Performance Temporal Graph Neural Network Inference" are accepted by DAC 2024!
 - *2024.02*: &nbsp;🎉🎉 Our paper "LSGraph: A Locality-centric High-performance Streaming Graph Engine" is accepted by EuroSys 2024!
-- *2024.01*: &nbsp;🎉🎉 Our paper "Computing Power Networking Meets Blockchain: A Reputation-enhanced Trading Framework for Decentralized IoT Cloud Services" is accepted by IoT!
 
 # 📝 Publications 
 ## 2025
