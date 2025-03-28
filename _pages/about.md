@@ -75,15 +75,11 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - **[SSI]** An efficient incremental strongly connected components algorithm for evolving directed graph (in Chinese) <br /> Xiaofei Liao, Yicheng Chen, Yu Zhang, Hai Jin, Haikun Liu, **<ins>Jin Zhao</ins>** <br /> ***SCIENTIA SINICA Informationis***, 2019
 
 # 🎖 Honors and Awards
-- National Gold Medal of China International College Students' Innovation Competition (2024)
 - Selected for Young Elite Scientists Sponsorship Program by CAST (2023)
 - Outstanding Doctoral Dissertation Award of China Computer Federation (2023)
-- National Gold Medal of China International College Students' Innovation Competition (2023)
 - Outstanding Doctoral Dissertation Award of CCF TCARCH (2023)
-- 2023年获得第十三届“挑战杯”中国大学生创业计划竞赛全国金奖
-- 2022年在图学习“国际开放图基准数据集挑战赛”的链接属性预测赛道预测精度排名全球第一
+- IEEE TC Featured Paper of the Month (2022)
 - 2022/2023年在第24、25和26届Graph 500排名中，SSSP性能蝉联全球第一、BFS性能全球第二
-- 2021年获得第七届中国国际“互联网+”大学生创新创业大赛全国金奖
 - 2021年在第18届Green Graph 500排名中，性能功耗比全球第一
 
 # 📖 Educations
