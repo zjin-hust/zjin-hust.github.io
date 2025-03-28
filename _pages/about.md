@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I obtained my PhD degree from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). 
+I am an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). I obtained my PhD degree at June 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). Before joining HUST, I have 
 
-My research interests mainly focus on Graph Processing.
+My research interests mainly focus on Computer Architecture, Graph Processing.
 
 之江实验室图计算研究中心/华中科技大学计算机科学与技术学院助理研究员，2022年9月在华中科技大学获得计算机系统结构博士学位，入选第九届中国科协青年人才托举工程，博士论文入选2023年度“CCF优秀博士学位论文激励计划”和2023年度“CCF体系结构优秀博士学位论文激励计划”。主要研究面向图计算的高性能体系结构和系统软件，相关成果在ISCA、SC、Eurosys、DAC、ACM TOS/TACO、IEEE TC/TKDE/TBD等会议和期刊上发表或录用学术论文20余篇，入选CCF A类期刊IEEE TC的Featured Paper of the Month等，研发的图计算引擎在图计算性能权威榜单Green Graph 500和Graph 500排名中多次位列第一，获第七届“互联网+”产业命题赛道全国金奖、第十三届“挑战杯”中国大学生创业计划竞赛全国金奖和2023年中国国际大学生创新大赛全国金奖，目前正在主持CCF-蚂蚁科研基金、之江实验室青年基金和第5批博士后特别资助（站前）等。
 
