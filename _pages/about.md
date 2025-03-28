@@ -20,7 +20,7 @@ redirect_from:
 Jin Zhao is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 20 research papers in top-tier conferences and journals, including ISCA, MICRO, SC, DAC, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, and Graph Processing.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our paper "A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree" is accepted by DAC 2025!
+- *2025.02*: &nbsp;🎉🎉 Our papers "A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree" and "PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries" are accepted by DAC 2025!
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
 - *2024.07*: &nbsp;🎉🎉 Our paper "An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing" is accepted by ACM TACO!
 - *2024.07*: &nbsp;🎉🎉 Our paper "RAHP: A Redundancy-aware Accelerator for High-performance Hypergraph Neural Network" is accepted by MICRO 2024!
@@ -32,6 +32,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 - *2023.02*: &nbsp;🎉🎉 Our papers "SaGraph: A Similarity-aware Hardware Accelerator for Temporal Graph Processing" and "PSMiner: A Pattern-Aware Accelerator for High-Performance Streaming Graph Pattern Mining" are accepted by DAC 2023! 
 
 # 📝 Publications 
+## 2025
 - **[Eurosys]** Hao Qi, Yiyang Wu, Ligang He, Yu Zhang, Kang Luo, Minzhi Cai, Hai Jin, Zhan Zhang, **<ins>Jin Zhao</ins>**. LSGraph: A Locality-centric High-performance Streaming Graph Engine. In Proceedings of the 18th European Conference on Computer Systems (EuroSys’24), 1-17, 2024. (To appear)
 - **[DAC]**	Hui Yu, Yu Zhang, Ligang He, Donghao He, Qikun Li, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Hai Jin, Lin Gu and Haikun Liu. CDA-GNN: A Chain-driven Accelerator for Efficient Asynchronous Graph Neural Network. In Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC’24), 1-6, 2024. (To appear)
 - **[DAC]**	Hui Yu, Yu Zhang, Andong Tan, Chenze Lu, **<ins>Jin Zhao</ins>**, Xiaofei Liao, Hai Jin and Haikun Liu. RTGA: A Redundancy-free Accelerator for High-Performance Temporal Graph Neural Network Inference. In Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC’24), 1-6, 2024. (To appear)
