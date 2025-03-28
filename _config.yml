@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Zhao（赵进）"
   avatar           : "images/zjin.jpg"
-  bio              : "之江实验室/华中科技大学"
-  location         : "杭州, 中国"
+  bio              : "HUST"
+  location         : "Wuhan, China"
   employer         : #
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?user=v2z02IgAAAAJ&hl=zh-CN"
