@@ -31,8 +31,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 
 # 📝 Publications 
 ## 2025
-- **[DAC 2025]** A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree  <br /> **<ins>Jin Zhao</ins>**, Yu Zhang, Jun Huang, weihang yin, Hui Yu, Hao Qi, Zixiao Wang, longlong lin, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
-- **[DAC 2025]** PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries <br /> Yutao Fu, Zhongtian Long, Yu Zhang, Zirui He, **<ins>Jin Zhao</ins>**, Qiyuan Niu, Zixiao Wang, Hai Jin <br /> ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
+- **[DAC 2025]** [A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree]()  <br /> **<ins>Jin Zhao</ins>**, Yu Zhang, Jun Huang, weihang yin, Hui Yu, Hao Qi, Zixiao Wang, longlong lin, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
+- **[DAC 2025]** [PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries]() <br /> Yutao Fu, Zhongtian Long, Yu Zhang, Zirui He, **<ins>Jin Zhao</ins>**, Qiyuan Niu, Zixiao Wang, Hai Jin <br /> ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
 - **[Eurosys 2025]** [OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining](https://dl.acm.org/doi/10.1145/3689031.3717474) <br />  Hao Qi, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, **<ins>Jin Zhao</ins>**, Hengshan Yue, Hui Yu, Xiaofei Liao <br /> ***Proceedings of the 20th European Conference on Computer Systems***, 2025
 - **[ACM TACO]** [An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing](https://dl.acm.org/doi/pdf/10.1145/3689335) <br /> **<ins>Jin Zhao</ins>**, Yu Zhang, Donghao He, Qikun Li, Weihang Yin, Hui Yu, Hao Qi, Xiaofei Liao, Hai Jin, Haikun Liu, Linchen Yu, Zhang Zhan <br /> ***ACM Transactions on Architecture and Code Optimization***, 2025
 
