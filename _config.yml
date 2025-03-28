@@ -8,7 +8,7 @@
 
 # Site Settings
 title                    : "Jin Zhao"
-description              : "Associate Professor"
+description              : ""
 repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jin Zhao（赵进）"
   avatar           : "images/zjin.jpg"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : "Associate Professor at Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         : #
   pubmed           : #
