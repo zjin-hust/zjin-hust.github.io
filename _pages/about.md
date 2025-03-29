@@ -23,6 +23,8 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 
 I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.
 
+E-mail: zjin@hust.edu.cn
+
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our papers "A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree" and "PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries" are accepted by DAC 2025!
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
