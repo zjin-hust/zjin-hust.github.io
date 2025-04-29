@@ -24,6 +24,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Our paper "TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU" is accepted by ASPLOS 2025!
 - *2025.02*: &nbsp;🎉🎉 Our papers "A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree" and "PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries" are accepted by DAC 2025!
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
 - *2024.07*: &nbsp;🎉🎉 Our paper "An Efficient ReRAM-based Accelerator for Asynchronous Iterative Graph Processing" is accepted by ACM TACO!
@@ -33,6 +34,7 @@ Jin Zhao is an associate professor at [School of Computer Science and Technology
 
 # 📝 Publications 
 ## 2025
+- **[ASPLOS 2025]** [TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU]() ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems***, 2025
 - **[DAC 2025]** [A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree]() ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
 - **[DAC 2025]** [PairGraph: An Efficient Search-space-aware Accelerator for High-performance Concurrent Pairwise Queries]() ```CCF A``` <br /> Yutao Fu, Zhongtian Long, Yu Zhang, Zirui He, **<ins>Jin Zhao</ins>**, Qiyuan Niu, Zixiao Wang, Hai Jin <br /> ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
 - **[Eurosys 2025]** [OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining](https://dl.acm.org/doi/10.1145/3689031.3717474) ```CCF A``` <br />  Hao Qi, Kang Luo, Ligang He, Yu Zhang, Minzhi Cai, Jingxin Dai, Bingsheng He, Hai Jin, Zhan Zhang, **<ins>Jin Zhao</ins>**, Hengshan Yue, Hui Yu, Xiaofei Liao <br /> ***Proceedings of the 20th European Conference on Computer Systems***, 2025
