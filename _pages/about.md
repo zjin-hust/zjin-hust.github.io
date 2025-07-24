@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome to Jin Zhao’s Homepage
 
-Jin Zhao is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 30 research papers in top-tier conferences and journals, including ISCA, MICRO, ASPLOS, SC, Eurosys, DAC, APPT, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
+[Jin Zhao](http://faculty.hust.edu.cn/zhaojin123/zh_CN/index.htm) is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 30 research papers in top-tier conferences and journals, including ISCA, MICRO, ASPLOS, SC, Eurosys, DAC, APPT, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
 
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
