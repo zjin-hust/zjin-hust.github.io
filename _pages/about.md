@@ -33,7 +33,7 @@ redirect_from:
 
 # 📝 Publications 
 ## 2026
-- **[PPoPP 2025]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
+- **[PPoPP 2025]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
   
 ## 2025
 - **[ASPLOS 2025]** [TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU](https://dl.acm.org/doi/10.1145/3676642.3736116) ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems***, 2025
