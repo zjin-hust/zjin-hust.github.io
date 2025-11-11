@@ -19,11 +19,12 @@ redirect_from:
 
 # Welcome to Jin Zhao’s Homepage
 
-[Jin Zhao](http://faculty.hust.edu.cn/zhaojin123/zh_CN/index.htm) is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 30 research papers in top-tier conferences and journals, including ISCA, MICRO, ASPLOS, SC, Eurosys, DAC, APPT, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
+[Jin Zhao](http://faculty.hust.edu.cn/zhaojin123/zh_CN/index.htm) is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 30 research papers in top-tier conferences and journals, including ISCA, MICRO, ASPLOS, SC, PPoPP, Eurosys, DAC, APPT, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
 
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 Our paper "DTMiner: A Data-centric System for Efficient Temporal Motif Mining" is accepted by PPoPP 2026!
 - *2025.06*: &nbsp;🎉🎉 Our paper "TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network" is accepted by SC 2025!
 - *2025.06*: &nbsp;🎉🎉 Our paper "Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches" is accepted by IEEE TKDE!
 - *2025.04*: &nbsp;🎉🎉 Our paper "TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU" is accepted by ASPLOS 2025!
@@ -31,6 +32,9 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
 
 # 📝 Publications 
+## 2026
+- **[PPoPP 2025]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
+  
 ## 2025
 - **[ASPLOS 2025]** [TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU](https://dl.acm.org/doi/10.1145/3676642.3736116) ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems***, 2025
 - **[DAC 2025]** [A Data-Centric Hardware Accelerator for Efficient Adaptive Radix Tree](https://ieeexplore.ieee.org/document/11132959) ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Yu Zhang, Jun Huang, Weihang Yin, Hui Yu, Hao Qi, Zixiao Wang, Longlong Lin, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 62nd IEEE/ACM Design Automation Conference***, 2025
