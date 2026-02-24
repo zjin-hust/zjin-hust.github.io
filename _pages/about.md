@@ -24,6 +24,7 @@ redirect_from:
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our three papers are accepted by DAC 2026!
 - *2025.11*: &nbsp;🎉🎉 Our paper "DTMiner: A Data-centric System for Efficient Temporal Motif Mining" is accepted by PPoPP 2026!
 - *2025.06*: &nbsp;🎉🎉 Our paper "TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network" is accepted by SC 2025!
 - *2025.06*: &nbsp;🎉🎉 Our paper "Provable Higher-order Graph Clustering: the Power of Peeling-based Approaches" is accepted by IEEE TKDE!
@@ -33,9 +34,12 @@ redirect_from:
 
 # 📝 Publications 
 ## 2026
+- **[DAC 2026]** [A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[PPoPP 2026]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
--  **[WWW 2026]** [Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches]() ```CCF A``` <br /> Longlong Lin, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, **<ins>Jin Zhao</ins>**  <br />  ***Proceedings of the 2026 ACM Web Conference***, 2026
--  **[SSI]** [A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference]() (in Chinese) <br /> Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, Wenjv Zhao, Yingqi Zhao, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***SCIENTIA SINICA Informationis***, 2026
+- **[DAC 2026]** [PiHG: A Redundancy-Free Heterogeneous Graph Neural Network Accelerator via a Pivot-Centric Approach]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Lin Gu, Zhongtian Long, Ruida Xin, Yutao Fu, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
+- **[DAC 2026]** [TDH-GNN: An Efficient Topology-driven Accelerator for Dynamic Heterogeneous GNN]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
+- **[WWW 2026]** [Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches]() ```CCF A``` <br /> Longlong Lin, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, **<ins>Jin Zhao</ins>**  <br />  ***Proceedings of the 2026 ACM Web Conference***, 2026
+- **[SSI]** [A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference]() (in Chinese) <br /> Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, Wenjv Zhao, Yingqi Zhao, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***SCIENTIA SINICA Informationis***, 2026
   
 ## 2025
 - **[ASPLOS 2025]** [TempGraph: An Efficient Chain-driven Temporal Graph Computing Framework on the GPU](https://dl.acm.org/doi/10.1145/3676642.3736116) ```CCF A``` <br /> **<ins>Jin Zhao</ins>**, Qian Wang, Ligang He, Yu Zhang, Sheng Di, Bingsheng He, Xinlei Wang, Hui Yu, Hao Qi, Longlong Lin, Linchen Yu, Xiaofei Liao, Hai Jin <br />  ***Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems***, 2025
