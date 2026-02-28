@@ -39,6 +39,7 @@ redirect_from:
 - **[DAC 2026]** [PiHG: A Redundancy-Free Heterogeneous Graph Neural Network Accelerator via a Pivot-Centric Approach]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Lin Gu, Zhongtian Long, Ruida Xin, Yutao Fu, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[DAC 2026]** [TDH-GNN: An Efficient Topology-driven Accelerator for Dynamic Heterogeneous GNN]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[WWW 2026]** [Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches]() ```CCF A``` <br /> Longlong Lin, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, **<ins>Jin Zhao</ins>**  <br />  ***Proceedings of the 2026 ACM Web Conference***, 2026
+- **[IEEE TCAD]** [COSH: An Efficient Cross-Snapshot Accelerator for High-performance Dynamic Heterogeneous GNN]() ```CCF A``` <br />  Qiyuan Niu, Yu Zhang, Lin Gu, Zhongtian Long, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems***, 2026
 - **[SSI]** [A High-Efficiency 3D-Stacked Accelerator for Deep Graph Neural Network Inference]() (in Chinese) <br /> Zhongtian Long, Yu Zhang, Yutao Fu, Qiyuan Niu, Shunsen Lv, Jiaqi Zhai, Wenjv Zhao, Yingqi Zhao, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***SCIENTIA SINICA Informationis***, 2026
   
 ## 2025
