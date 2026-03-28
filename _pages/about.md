@@ -24,6 +24,7 @@ redirect_from:
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 Our paper "TAGT: An Efficient Graph Transformer Accelerator with Topology-aware Sparsification and Merging" is accepted by ISCA 2026!
 - *2026.02*: &nbsp;🎉🎉 Our three papers are accepted by DAC 2026!
 - *2025.11*: &nbsp;🎉🎉 Our paper "DTMiner: A Data-centric System for Efficient Temporal Motif Mining" is accepted by PPoPP 2026!
 - *2025.06*: &nbsp;🎉🎉 Our paper "TaGNN: An Efficient Topology-aware Accelerator for High-performance Dynamic Graph Neural Network" is accepted by SC 2025!
@@ -36,6 +37,7 @@ redirect_from:
 ## 2026
 - **[DAC 2026]** [A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[PPoPP 2026]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
+- **[ISCA 2026]** [TAGT: An Efficient Graph Transformer Accelerator with Topology-aware Sparsification and Merging]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 53rd Annual International Symposium on Computer Architecture***, 2026
 - **[DAC 2026]** [PiHG: A Redundancy-Free Heterogeneous Graph Neural Network Accelerator via a Pivot-Centric Approach]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Lin Gu, Zhongtian Long, Ruida Xin, Yutao Fu, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[DAC 2026]** [TDH-GNN: An Efficient Topology-driven Accelerator for Dynamic Heterogeneous GNN]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[WWW 2026]** [Scalable and Provable Biclique-Preserving Clustering: The Power of Counting-based Approaches]() ```CCF A``` <br /> Longlong Lin, Zeli Wang, Rong-Hua Li, Xiaohai Dai, Li Ni, **<ins>Jin Zhao</ins>**  <br />  ***Proceedings of the 2026 ACM Web Conference***, 2026
