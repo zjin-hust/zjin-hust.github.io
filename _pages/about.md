@@ -24,6 +24,7 @@ redirect_from:
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Our papers "TempGNN: An Efficient Real-Time TGNN Inference Accelerator via Target-centric Dependency Packets" and "Maze: A Distributed Framework for Large Language Model Agents" are accepted by SC 2026!
 - *2026.03*: &nbsp;🎉🎉 Our paper "TAGT: An Efficient Graph Transformer Accelerator with Topology-aware Sparsification and Merging" is accepted by ISCA 2026!
 - *2026.02*: &nbsp;🎉🎉 Our three papers are accepted by DAC 2026!
 - *2025.11*: &nbsp;🎉🎉 Our paper "DTMiner: A Data-centric System for Efficient Temporal Motif Mining" is accepted by PPoPP 2026!
@@ -35,8 +36,10 @@ redirect_from:
 
 # 📝 Publications 
 ## 2026
-- **[DAC 2026]** [A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[PPoPP 2026]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining](https://dl.acm.org/doi/pdf/10.1145/3774934.3786416) ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026
+- **[DAC 2026]** [A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
+- **[SC 2026]** [TempGNN: An Efficient Real-Time TGNN Inference Accelerator via Target-centric Dependency Packets]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Carol Jingyi Li, Zixiao Wang, Jiang Xu <br /> ***Proceedings of the 2026 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2026
+- **[SC 2026]** [Maze: A Distributed Framework for Large Language Model Agents]() ```CCF A``` <br /> Jing Gu, Zhuang Xing, Yiheng Yang, Bowen Lv, Jiale Wang, Shuo Yuan, Zijin Chen, **<ins>Jin Zhao</ins>**, Pengfei Zuo, Long Zheng, Xiaofei Liao, Hai Jin, Qinbin Li <br /> ***Proceedings of the 2026 International Conference for High Performance Computing, Networking, Storage, and Analysis***, 2026
 - **[ISCA 2026]** [TAGT: An Efficient Graph Transformer Accelerator with Topology-aware Sparsification and Merging]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 53rd Annual International Symposium on Computer Architecture***, 2026
 - **[DAC 2026]** [PiHG: A Redundancy-Free Heterogeneous Graph Neural Network Accelerator via a Pivot-Centric Approach]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Lin Gu, Zhongtian Long, Ruida Xin, Yutao Fu, **<ins>Jin Zhao</ins>**, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
 - **[DAC 2026]** [TDH-GNN: An Efficient Topology-driven Accelerator for Dynamic Heterogeneous GNN]() ```CCF A``` <br /> Hui Yu, Wei Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Yu Zhang, Zixiao Wang <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
