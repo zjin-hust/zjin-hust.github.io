@@ -36,6 +36,9 @@ redirect_from:
 - *2025.01*: &nbsp;🎉🎉 Our paper "OHMiner: An Overlap-centric System for Efficient Hypergraph Pattern Mining" is accepted by EuroSys 2025!
 
 # 📝 Publications 
+## 2027
+- **[ICDE 2027]** [HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering]() ```CCF A``` <br /> Quanao Li, Longlong Lin, Zeli Wang, Li Ni, **<ins>Jin Zhao</ins>**, Ruikun Luo, Rong-Hua Li  <br />  ***Proceedings of the 43rd IEEE International Conference on Data Engineering***, 2027
+
 ## 2026
 - **[PPoPP 2026]** [DTMiner: A Data-centric System for Efficient Temporal Motif Mining](https://dl.acm.org/doi/pdf/10.1145/3774934.3786416) ```CCF A``` <br /> Yinbo Hou, Hao Qi, Ligang He, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang,  Hui Yu, Longlong Lin, Lin Gu, Wenbin Jiang, Xiaofei Liao, Hai Jin  <br />  ***Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming***, 2026 
 - **[DAC 2026]** [A Locality-Aware Temporal Motif Mining Accelerator with Chunk-Based Search Tree Expansion]() ```CCF A``` <br /> Yinbo Hou, Hao Qi, **<ins>Jin Zhao (Corresponding author)</ins>**, Yu Zhang, Yiling Lu, Hui Yu, longlong lin, Wenbin Jiang, Xiaofei Liao, Hai Jin <br /> ***Proceedings of the 63rd IEEE/ACM Design Automation Conference***, 2026
