@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome to Jin Zhao’s Homepage
 
-[Jin Zhao](http://faculty.hust.edu.cn/zhaojin123/zh_CN/index.htm) is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 50 research papers in top-tier conferences and journals, including ISCA, MICRO, HPCA, ASPLOS, SC, PPoPP, Eurosys, DAC, APPT, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
+[Jin Zhao](http://faculty.hust.edu.cn/zhaojin123/zh_CN/index.htm) is an associate professor at [School of Computer Science and Technology](https://cs.hust.edu.cn/) in [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/). He obtained the PhD degree at September 2022 from the __Huazhong University of Science and Technology__ under the supervision of [Prof. Xiaofei Liao](http://faculty.hust.edu.cn/xfliao/zh_CN/index.htm). He has published about 50 research papers in top-tier conferences and journals, including ISCA, MICRO, HPCA, ASPLOS, SC, PPoPP, Eurosys, DAC, ACM TACO, IEEE TC, and IEEE TKDE. His research interests mainly focus on High Performance Computing, Computer Architecture, Graph Processing, and Intelligent Computing System (LLM inference and training).
 
 **I am looking for self-motivated Master and Undergraduate students. Please send me an email with your CV if you are interested in the above areas.**
 
@@ -38,7 +38,7 @@ redirect_from:
 # 📝 Publications 
 ## 2027
 - **[HPCA 2027]** [CoHG: An Efficient Correlation-aware Accelerator for High-performance Heterogeneous GNN]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Zhongtian Long, Yutao Fu, Hai Jin  <br />  ***Proceedings of the 33rd IEEE International Symposium on High-Performance Computer Architecture***, 2027
-- - **[HPCA 2027]** [DeHGNN: A Dependency-Driven Hardware Accelerator for Efficient Hypergraph Neural Network]() ```CCF A``` <br /> Zixiao Wang, Hui Yu, Yu Zhang, Tianyi Zhang, Yuluo Guo, **<ins>Jin Zhao</ins>**, Hai Jin  <br />  ***Proceedings of the 33rd IEEE International Symposium on High-Performance Computer Architecture***, 2027
+- **[HPCA 2027]** [DeHGNN: A Dependency-Driven Hardware Accelerator for Efficient Hypergraph Neural Network]() ```CCF A``` <br /> Zixiao Wang, Hui Yu, Yu Zhang, Tianyi Zhang, Yuluo Guo, **<ins>Jin Zhao</ins>**, Hai Jin  <br />  ***Proceedings of the 33rd IEEE International Symposium on High-Performance Computer Architecture***, 2027
 - **[ICDE 2027]** [HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering]() ```CCF A``` <br /> Quanao Li, Longlong Lin, Zeli Wang, Li Ni, **<ins>Jin Zhao</ins>**, Ruikun Luo, Rong-Hua Li  <br />  ***Proceedings of the 43rd IEEE International Conference on Data Engineering***, 2027
 
 ## 2026
