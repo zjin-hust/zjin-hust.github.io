@@ -39,6 +39,7 @@ redirect_from:
 ## 2027
 - **[HPCA 2027]** [CoHG: An Efficient Correlation-aware Accelerator for High-performance Heterogeneous GNN]() ```CCF A``` <br /> Qiyuan Niu, Yu Zhang, Ligang He, **<ins>Jin Zhao</ins>**, Zhongtian Long, Yutao Fu, Hai Jin  <br />  ***Proceedings of the 33rd IEEE International Symposium on High-Performance Computer Architecture***, 2027
 - **[HPCA 2027]** [DeHGNN: A Dependency-Driven Hardware Accelerator for Efficient Hypergraph Neural Network]() ```CCF A``` <br /> Zixiao Wang, Hui Yu, Yu Zhang, Tianyi Zhang, Yuluo Guo, **<ins>Jin Zhao</ins>**, Hai Jin  <br />  ***Proceedings of the 33rd IEEE International Symposium on High-Performance Computer Architecture***, 2027
+- **[KDD 2027]** [LATCH: LLM-Guided Text-Attributed Hypergraph Clustering via Risk-Aware Hyperedge Correction]() ```CCF A``` <br /> Yihan Wang, Longlong Lin, **<ins>Jin Zhao</ins>**, Zeli Wang  <br />  ***Proceedings of the 33rd SIGKDD Conference on Knowledge Discovery and Data Mining***, 2027
 - **[ICDE 2027]** [HonorCut: Higher-order Attributed Normalized Cut for Neural Attributed Graph Clustering]() ```CCF A``` <br /> Quanao Li, Longlong Lin, Zeli Wang, Li Ni, **<ins>Jin Zhao</ins>**, Ruikun Luo, Rong-Hua Li  <br />  ***Proceedings of the 43rd IEEE International Conference on Data Engineering***, 2027
 
 ## 2026
